@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/Carson_001)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ian-kiprono-b20039153?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGNdTJUggRTG%2FbndOUK8OQg%3D%3D)
 <!-- [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jay.i.jr.1) -->
-[![Whatsapp Connect](https://wa.me/+254719133229)] 
+[![Whatsapp Connect](https://wa.me/+254719133229)] -->
 [![Gmail]
 ## Happy Coding.
