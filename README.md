@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iancarson&theme=radical)
+# Hi there
+
+![github stats](https://github-readme-stats.vercel.app/api?username=iancarson&show_icons=true&count_private=true&line_height=33&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iancarson&hide=html&theme=react)
+
+<!---[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iancarson&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
+
 ## Social
 
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/Carson_001)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ian-kiprono-b20039153?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGNdTJUggRTG%2FbndOUK8OQg%3D%3D)
-<!-- [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jay.i.jr.1) [![Whatsapp Connect](https://wa.me/+254719133229)] --> -->
-
-[![Gmail]
-## Happy Coding.
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/Iankiprono/)
+<!-- [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/jay.i.jr.1) -->
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:iancarson41@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
