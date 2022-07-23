@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iancarson&theme=radical)
 # Hi there
 
-![github stats](https://github-readme-stats.vercel.app/api?username=iancarson&show_icons=true&count_private=true&line_height=33&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iancarson&hide=html&theme=react)
+![github stats](https://github-readme-stats.vercel.app/api?username=iancarson&show_icons=true&count_private=true&line_height=33&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iancarson&hide=html&theme=radical)
 
 <!---[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iancarson&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
 
