@@ -1,10 +1,3 @@
-### Hi there 👋
-
-
-<!--[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=iancarson)](https://github.com/anuraghazra/github-readme-stats) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iancarson&hide=html&theme=merko)
-
-<!---[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iancarson&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
 
 ## Social
 
